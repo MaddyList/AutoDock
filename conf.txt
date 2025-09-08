@@ -1,0 +1,13 @@
+receptor=RNA.pdbqt
+ligand=Theo.pdbqt
+out=output.pdbqt
+
+center_x=4.215
+center_y=4.727 
+center_z=33.731
+
+size_x=40
+size_y=40
+size_z=40
+
+exhaustiveness=8

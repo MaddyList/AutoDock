@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --config conf.txt --log log.txt
